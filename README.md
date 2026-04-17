@@ -27,8 +27,8 @@ Currently pursuing **Bachelor of Computer Applications (BCA)** at Don Bosco Inst
 | **Hackathon Winner** | 2nd Position in Internal College Hackathon (20+ teams) |
 | **National Hackathon** | Smart India Hackathon 2025 - Round 1 Cleared |
 | **Certifications** | Deloitte Data Analytics + IIT Delhi AI/ML Workshop |
-| **Projects** | 5+ Power BI Dashboards | 50K+ data records analyzed |
-| **Impact** | 40% processing improvement | 95% prediction accuracy |
+| **Projects** | 5+ Power BI Dashboards \| 50K+ data records analyzed |
+| **Impact** | 40% processing improvement \| 95% prediction accuracy |
 
 ---
 
@@ -38,7 +38,7 @@ Currently pursuing **Bachelor of Computer Applications (BCA)** at Don Bosco Inst
 **Data Tools:** Power BI, Tableau, Excel  
 **Python Libraries:** NumPy, Pandas, Scikit-learn, Seaborn, SciPy  
 **Database:** SQL, NoSQL Basics  
-**Concepts:** DBMS, Data Structures, ML, Statistics
+**Core Concepts:** DBMS, Data Structures, ML, Statistics
 
 ---
 
@@ -53,7 +53,7 @@ Currently pursuing **Bachelor of Computer Applications (BCA)** at Don Bosco Inst
 ### 2. **Certifications & Achievements**
 - 📜 Documented 6+ certifications
 - 🏅 3+ hackathon participations
-- 📚  100+ hours of coursework
+- 📚 100+ hours of coursework
 - [View Repository](https://github.com/ken-ipynb/certifications-and-achievements)
 
 ---
