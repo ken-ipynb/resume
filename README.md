@@ -3,7 +3,7 @@
 ## 📄 Download Resume
 **[📥 Download PDF](./Pradeep_Pandey_Resume.pdf)**
 
-***Status:** Open to Internships
+**Status:** Open to Internships
 
 ---
 
