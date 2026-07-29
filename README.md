@@ -1,9 +1,9 @@
-# Pradeep Pandey - Professional Resume
+# Pradeep Pandey -  Resume
 
 ## 📄 Download Resume
 **[📥 Download PDF](./Pradeep_Pandey_Resume.pdf)**
 
-**Last Updated:** April 2025 | **Status:** Open to Internships
+***Status:** Open to Internships
 
 ---
 
